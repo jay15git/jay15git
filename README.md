@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Fun intro -->
-```javascript
+```json
 const jayant = {
   username:  "jay15git",
   role:      "Full Stack Developer",
