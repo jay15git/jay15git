@@ -27,20 +27,12 @@
 
 <br/><br/>
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jay15git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay15git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-
-<br/><br/>
 
 ---
 
 ## 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/jayant-acharya-523b18368">
+<a href="https://linkedin.com/in/jayac15">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
